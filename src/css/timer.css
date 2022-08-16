@@ -1,0 +1,30 @@
+.timer {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    font-size: 24px;
+    font-weight: 700;
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.flatpickr-input {
+    display: flex;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 15px;
+    margin: 15px auto;
+}
